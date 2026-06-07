@@ -1,0 +1,14 @@
+# Data Processing & Computation
+numpy
+
+# Deep Learning Framework
+torch
+torchvision
+
+# Computer Vision & Face Landmark Tracking
+opencv-python
+mediapipe
+
+# Audio Modeling & Parameter-Efficient Fine-Tuning
+transformers
+peft
